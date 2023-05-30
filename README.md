@@ -24,3 +24,9 @@ This keylogger is a Python script developed for educational purposes. It capture
 - Saves the captured keystrokes to a file for further analysis.
 
 ## Installation
+
+1. Clone the repository:
+
+   ```shell
+   git clone https://github.com/your-username/keylogger.git
+   cd keylogger
