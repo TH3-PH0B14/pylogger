@@ -37,8 +37,8 @@ This keylogger is a Python script developed for educational purposes. It capture
    ```shell
    python keylogger.py
    
-or
+  or
 
-   ```shell
-   python3 keylogger.py
+      ```shell
+      python3 keylogger.py
    
