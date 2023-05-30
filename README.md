@@ -32,13 +32,13 @@ This keylogger is a Python script developed for educational purposes. It capture
 
 ## usage
 
-1. Clone the repository:
+1. run python script:
 
    ```shell
    python keylogger.py
    
-  or
+  .or
 
-      ```shell
-      python3 keylogger.py
+   ```shell
+   python3 keylogger.py
    
