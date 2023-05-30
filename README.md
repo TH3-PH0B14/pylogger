@@ -1,6 +1,5 @@
-# Keylogger
+# Pylogger
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 A Python keylogger tool for educational purposes, designed to capture and log keystrokes.
 
@@ -9,7 +8,6 @@ A Python keylogger tool for educational purposes, designed to capture and log ke
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 
 ## Introduction
 
@@ -28,5 +26,19 @@ This keylogger is a Python script developed for educational purposes. It capture
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/keylogger.git
+   git clone https://github.com/TH3-PH0B14/pylogger.git
    cd keylogger
+   pip install pynput
+
+## usage
+
+1. Clone the repository:
+
+   ```shell
+   python keylogger.py
+   
+or
+
+   ```shell
+   python3 keylogger.py
+   
